@@ -20,15 +20,11 @@
   </div>
     
   <h1 align="center">Redes Sociais</h1>
-    <a href="mailto:308navir@gmail.com">
-      <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Email_icon.svg" alt="gmail-icon">
-    </a>
-    <a href="https://www.linkedin.com/in/seu-perfil-linkedin">
-      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="linkedin-icon">
-    </a>
-    <a href="https://www.instagram.com/devparadev/">
-      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram-icon">
-    </a>
+    <div align="center"> 
+    <!--<a href="https://www.instagram.com/rennan_alves11?igsh=MTZwcnR1ZnhiNm9vag%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>-->
+    <a href = "mailto:308navir@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <!--<a href="https://www.linkedin.com/in/rennan-alves-b7a904283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> -->
+     </div>
 </div>
   
 <picture align="center">
