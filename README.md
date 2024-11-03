@@ -1,4 +1,6 @@
-## Laboratório 308 da Universidade Federal do Amazonas voltado para tecnologias.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90E0EF&height=120&section=header"/>
+
+</h1>Laboratório 308 da Universidade Federal do Amazonas voltado para tecnologias.<h1>
 
 <div>
   
@@ -32,3 +34,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lab-NAVIR/Lab-NAVIR/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lab-NAVIR/Lab-NAVIR/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90E0EF&height=120&section=footer"/>
