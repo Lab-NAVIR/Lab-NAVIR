@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096c7&height=120&section=header"/>
 
-</h1>Laboratório 308 da Universidade Federal do Amazonas voltado para tecnologias.<h1>
+<h1 align="center">Laboratório 308 da Universidade Federal do Amazonas voltado para tecnologias.</h1>
 
 <div>
   
