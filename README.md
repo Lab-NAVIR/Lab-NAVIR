@@ -21,13 +21,13 @@
     
   <h1 align="center">Redes Sociais</h1>
     <a href="mailto:308navir@gmail.com">
-      <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Email_icon.png">
+      <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Email_icon.svg" alt="gmail-icon">
     </a>
     <a href="https://www.linkedin.com/in/seu-perfil-linkedin">
-      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg">
+      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="linkedin-icon">
     </a>
     <a href="https://www.instagram.com/devparadev/">
-      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
+      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram-icon">
     </a>
 </div>
   
